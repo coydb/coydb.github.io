@@ -1,22 +1,36 @@
 body {
-	background:#c5c8c6;
+	background:#2e3440;
 	font-family: Arial, Helvetica, san-serif;
 }
 
 .assignment {
     display:flex;
-    padding:10px;
-    margin:10px;
-    background:lightblue;
+    padding:40px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:40px;
+    margin-bottom:40px;
+    background:#4c566a;
+    color:#eceff4;
 }
 
 .assignment img {
-    width:200px;
-    padding:10px;
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+    border: 8px solid #81a1c1;
 }
 
 h1 {
-	color:#282a2e;
+    padding: 20px;
+    margin: 10px;
+    background:#4c566a;
+	color:#eceff4;
 	text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color: #eceff4;
 }
 
